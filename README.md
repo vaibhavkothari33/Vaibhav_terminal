@@ -1,7 +1,8 @@
 
 <body>
     <h1>Vaibhav's Custom Terminal 🚀</h1>
-    <p>Welcome to Vaibhav's Custom Terminal project! This interactive terminal is designed to provide a unique and personalized experience, offering a blend of technical information and a touch of personal flair.</p>
+    <p>Welcome to Vaibhav's Custom Terminal project! This interactive terminal is designed to provide a unique and personalized experience, offering a blend of technical information and a touch of personal flair.</p> <br>
+    Check out this custom Terminal <a href="https://vaibhavkothari33.github.io/Vaibhav_terminal/" target="_blank">Custom Terminal</a>
     <h2>Features</h2>
     <ul>
         <li><strong>Sleek Design:</strong> The terminal window is crafted with a modern and sleek design, providing a visually appealing interface.</li>
